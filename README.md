@@ -12,7 +12,7 @@ The base mods needed for the pack to connect to the server, as well as optimizat
 ## Regular [WIP]
 ![The logo for the regular version of the Cobblemon - The Jazzening modpack It is a Pokéball with the jazz design on its top](https://cdn.modrinth.com/data/cached_images/55815ef8361cb0742de95c7b749362efce0cb73f.png)
 
-The pack I would reccomend for general use, mostly containting [WIP]
+The pack I would reccomend for general use, adding on Xaero's Minimap/World Map and some flavour mods. Probably a better base for adding stuff onto, and should perform well on run-of-the-mill PCs.
 
 ## Special
 ![The logo for the special version of the Cobblemon - The Jazzening modpack It is a Pokéball with the jazz design on its top, and a yellow star on the bottom right.](https://cdn.modrinth.com/data/cached_images/d00f5b611afaf388cf160dc125db005b897b335d.png)
