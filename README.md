@@ -30,4 +30,4 @@ The pack with the setup *I* plan to use on the server. Contains everything the o
 
 ---
 
-If any issues arise, please let me know on Discord. Many thanks.
+If any issues arise, please let me know on Discord, or send in an issue here. Many thanks.
