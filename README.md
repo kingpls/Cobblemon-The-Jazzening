@@ -28,4 +28,6 @@ The pack with the setup *I* plan to use on the server. Contains everything the o
 
 [Download Here](https://drive.google.com/file/d/1XnvWr1mFD5q3yj3x2WfHrkzbFybOP_OC/view?usp=sharing)
 
+---
+
 If any issues arise, please let me know on Discord. Many thanks.
