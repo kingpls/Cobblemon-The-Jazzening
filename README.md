@@ -17,6 +17,7 @@ I have 3 versions to choose from:
 The base mods needed for the pack to connect to the server, as well as optimization mods. A good base, and good for lower-end PCs.
 
 [Modrinth Version](https://github.com/kingpls/Cobblemon-The-Jazzening/raw/refs/heads/main/Modrinth%20Versions%20(.mrpack)/Cobblemon%20-%20The%20Jazzening%20%5BMIN%5D.mrpack)
+
 [Prism Version](https://github.com/kingpls/Cobblemon-The-Jazzening/raw/refs/heads/main/Prism%20Versions%20(.zip)/Cobblemon%20-%20The%20Jazzening%20%5BMIN%5D.zip)
 
 ## Regular
@@ -26,6 +27,7 @@ The base mods needed for the pack to connect to the server, as well as optimizat
 The pack I would reccomend for general use, adding on Xaero's Minimap/World Map and some flavour mods. Probably a better base for adding stuff onto, and should perform well on run-of-the-mill PCs.
 
 [Modrinth Version](https://github.com/kingpls/Cobblemon-The-Jazzening/raw/refs/heads/main/Modrinth%20Versions%20(.mrpack)/Cobblemon%20-%20The%20Jazzening%20%5BREG%5D.mrpack)
+
 [Prism Version](https://github.com/kingpls/Cobblemon-The-Jazzening/raw/refs/heads/main/Prism%20Versions%20(.zip)/Cobblemon%20-%20The%20Jazzening%20%5BREG%5D.zip)
 
 ## Special
@@ -35,6 +37,7 @@ The pack I would reccomend for general use, adding on Xaero's Minimap/World Map 
 The pack with the setup _I_ plan to use on the server. Contains everything the other versions do, with Complementary + Euphoria Tweaks, Distant Horizons, and resource packs I like to use preinstalled. Would recommend using this with a decent PC. **Please allocate 6GB to this pack before use.**
 
 [Modrinth Version](https://github.com/kingpls/Cobblemon-The-Jazzening/raw/refs/heads/main/Modrinth%20Versions%20(.mrpack)/Cobblemon%20-%20The%20Jazzening%20%5BSP%5D.mrpack)
+
 [Prism Version](https://github.com/kingpls/Cobblemon-The-Jazzening/raw/refs/heads/main/Prism%20Versions%20(.zip)/Cobblemon%20-%20The%20Jazzening%20%5BSP%5D.zip)
 
 ---
